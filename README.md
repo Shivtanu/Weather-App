@@ -13,3 +13,6 @@ Features:
   7. Implement a basic responsive design that works on both mobile and tablet devices.
   8. Add a "Refresh" button on the weather details screen to fetch updated weather data.
   9. Implement data persistence to save the last searched city
+![WhatsApp Image 2024-07-03 at 16 05 08](https://github.com/Shivtanu/Weather-App/assets/91622729/0cc5ca8a-b0d1-43c0-a6be-50a9b4e76876)
+![WhatsApp Image 2024-07-03 at 16 05 07](https://github.com/Shivtanu/Weather-App/assets/91622729/429a4253-910f-459c-9a77-c47a3cc81f6a)
+![WhatsApp Image 2024-07-03 at 16 05 07 (1)](https://github.com/Shivtanu/Weather-App/assets/91622729/4bc245f1-062e-4491-b969-4b9c9d7dad57)
