@@ -1,20 +1,15 @@
-<<<<<<< HEAD
-# Weather-App
-=======
-# weather_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 5e6b162 (project added)
+a simple weather app using Flutter that displays current weather information for a given city.
+Features:
+  1. Use the OpenWeatherMap API (or any other free weather API) to fetch weather data.
+  2. The app should have two screens: a. Home screen with a search bar to enter a city name b. Weather details screen to display the weather information
+  3. On the home screen:
+    ○ Implement a search bar where users can enter a city name
+    ○ Add a button to trigger the weather search
+    ○ Display a loading indicator while fetching data
+  4. On the weather details screen, display the following information:
+    ○ City name, Current temperature (in Celsius), Weather condition (e.g., cloudy, sunny, rainy), An icon representing the weather condition, Humidity percentage, Wind speed.
+  5. Implement proper error handling for API requests and display user-friendly error messages.
+  6. Use appropriate state management (e.g., setState, Provider) to manage the app's state.
+  7. Implement a basic responsive design that works on both mobile and tablet devices.
+  8. Add a "Refresh" button on the weather details screen to fetch updated weather data.
+  9. Implement data persistence to save the last searched city
